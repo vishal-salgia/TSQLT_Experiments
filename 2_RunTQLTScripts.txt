@@ -1,0 +1,7 @@
+- Download https://tsqlt.org/downloads/
+
+- Run PrepareServer.sql
+
+- tSQLt.class.sql
+
+
